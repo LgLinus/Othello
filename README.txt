@@ -1,0 +1,1 @@
+If the game crashes at startup, it's because the images can't be found. This can be solved by moving the folder called "res" into the "bin" folder.
